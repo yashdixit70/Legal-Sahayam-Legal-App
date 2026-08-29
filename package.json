@@ -1,0 +1,10 @@
+{
+  "name": "legal-sahayam",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Legal Sahayam — an AI-grounded legal-assistance web app for India (Razorpay buildathon submission).",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/smoke.mjs && node tests/dom-smoke.mjs"
+  }
+}
